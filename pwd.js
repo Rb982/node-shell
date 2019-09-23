@@ -1,0 +1,1 @@
+module.exports=(callback)=>{callback(process.cwd())}
